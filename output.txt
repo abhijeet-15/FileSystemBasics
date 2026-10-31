@@ -1,0 +1,20 @@
+total 40520
+drwxr-xr-x@  3 abhi  staff        96 28 Oct 19:35 __pycache__
+drwxr-xr-x@ 19 abhi  staff       608 30 Oct 20:37 .
+drwxr-xr-x@ 21 abhi  staff       672 28 Oct 19:29 ..
+-rw-r--r--@  1 abhi  staff        33 28 Oct 20:02 .env
+-rw-r--r--@  1 abhi  staff        33 28 Oct 20:09 .example.env
+drwxr-xr-x@  9 abhi  staff       288 28 Oct 19:29 .git
+-rw-r--r--@  1 abhi  staff       113 28 Oct 19:29 .gitignore
+-rw-r--r--@  1 abhi  staff         5 28 Oct 19:29 .python-version
+drwxr-xr-x@  8 abhi  staff       256 28 Oct 19:33 .venv
+drwxr-xr-x@  2 abhi  staff        64 28 Oct 20:59 demo
+-rw-r--r--@  1 abhi  staff      2640 30 Oct 19:48 index.py
+-rw-r--r--@  1 abhi  staff         0 30 Oct 20:47 output.txt
+-rw-r--r--@  1 abhi  staff  10216907 30 Oct 19:48 processed_data.txt
+-rw-r--r--@  1 abhi  staff       162 28 Oct 19:29 pyproject.toml
+-rw-r--r--@  1 abhi  staff         0 28 Oct 19:29 README.md
+-rw-r--r--@  1 abhi  staff       228 30 Oct 20:47 term.py
+-rw-r--r--@  1 abhi  staff  10485772 30 Oct 19:42 testfile.txt
+-rw-r--r--@  1 abhi  staff        94 29 Oct 20:59 text.txt
+-rw-r--r--@  1 abhi  staff       136 28 Oct 19:33 uv.lock
